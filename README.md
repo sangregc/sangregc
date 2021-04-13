@@ -1,0 +1,9 @@
+- 👋 Hi, I’m grEg
+- 👀 I’m having interested in mobile development, mainly Android...
+- 🌱 I’m currently learning Kotlin & some java stuffs...
+- 💞️ I’m looking to collaborate on a some small projects where i could use what i had learned...
+
+<!---
+sangregc/sangregc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
